@@ -1,0 +1,72 @@
+/* 河南格展网络科技有限公司 */
+/* 精品与原创模板之家提供商，一站式建站 */
+/* 主营业务：快速建站、快排、高权重域名、海外服务器 */
+/* 格展网络：Www.91084.Com */
+/* 主机/服务器：Www.zhaodede.Com */
+/* QQ：6364544  */
+@font-face {
+	font-family: "iconfont";
+	src: url('../fonts/font_409178_69q8i3vyzefav2t9.html'); /* IE9*/
+	src: url('../fonts/font_409178_69q8i3vyzefav2t9.html') format('embedded-opentype'), /* IE6-IE8 */  url('../fonts/font_409178_69q8i3vyzefav2t9.woff') format('woff'),  url('../fonts/font_409178_69q8i3vyzefav2t9-2.html') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/  url('../fonts/font_409178_69q8i3vyzefav2t9-3.html') format('svg'); /* iOS 4.1- */
+}
+.iconfont {
+	font-family: "iconfont" !important;
+	font-size: 16px;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.icon-xinlang:before {
+	content: "\e601";
+}
+.icon-QQ:before {
+	content: "\e604";
+}
+.icon-ban1:before {
+	content: "\e667";
+}
+.icon-dizhi:before {
+	content: "\e60d";
+}
+.icon-ban2:before {
+	content: "\e83d";
+}
+.icon-xiangshang2:before {
+	content: "\e76e";
+}
+.icon-xiangxia2:before {
+	content: "\e772";
+}
+.icon-bus3:before {
+	content: "\e620";
+}
+.icon-jiantou:before {
+	content: "\e72d";
+}
+.icon-close:before {
+	content: "\e779";
+}
+.icon-youhua:before {
+	content: "\e621";
+}
+.icon-bus1:before {
+	content: "\e625";
+}
+.icon-ban3:before {
+	content: "\e61e";
+}
+.icon-icon-wx:before {
+	content: "\e659";
+}
+.icon-bus2:before {
+	content: "\e678";
+}
+.icon-xiangyou:before {
+	content: "\e798";
+}
+.icon-xiangzuo:before {
+	content: "\e799";
+}
+.icon-ban0:before {
+	content: "\e72a";
+}
